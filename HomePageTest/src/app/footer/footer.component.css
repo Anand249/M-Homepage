@@ -1,0 +1,23 @@
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+
+.color{
+  background-color:#312f2f;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.mat-toolbar-multiple-rows {
+  min-height: 70px;
+}
+
+.sample{
+  margin-left: 10%;
+  margin-right: 10%;
+}

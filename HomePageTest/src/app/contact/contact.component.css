@@ -1,0 +1,23 @@
+.body {
+    background-color: black;
+}
+
+.text{
+    color: white;
+}
+
+.mat-list-item{
+    color: white;
+}
+
+.mat-grid-list{
+    background-color: #292626;
+}
+
+.grayText{
+    color: gray
+}
+
+.sample{
+    left: 30px !important;
+}
